@@ -1,0 +1,32 @@
+Variable,Method,Correlation,p_value,normality_var,normality_target,status,abs_corr,significance,interpretation,eligible_for_model
+RR,Spearman,0.163,0.0107,0,0,Analyzed,0.163,*,Weak,TRUE
+TD_S,Spearman,-0.149,0.02,4e-04,0,Analyzed,0.149,*,Weak,TRUE
+USIA,Spearman,0.14,0.0288,0.1676,0,Analyzed,0.14,*,Weak,TRUE
+TG,Spearman,-0.136,0.0328,0,0,Analyzed,0.136,*,Weak,TRUE
+HDL,Spearman,-0.132,0.0386,1e-04,0,Analyzed,0.132,*,Weak,TRUE
+RIW_HT,Spearman,-0.126,0.0493,0,0,Analyzed,0.126,*,Weak,TRUE
+LEUKOSIT,Spearman,0.108,0.0902,0,0,Analyzed,0.108,.,Weak,TRUE
+UREUM,Spearman,0.096,0.135,0,0,Analyzed,0.096,.,Very Weak,TRUE
+GDS,Spearman,0.088,0.1712,0,0,Analyzed,0.088,.,Very Weak,TRUE
+BB,Spearman,-0.087,0.1754,1e-04,0,Analyzed,0.087,.,Very Weak,TRUE
+SK,Spearman,0.08,0.2141,0,0,Analyzed,0.08,.,Very Weak,TRUE
+HBSAG,Spearman,-0.073,0.2552,0,0,Analyzed,0.073,ns,Very Weak,FALSE
+BUN,Spearman,0.07,0.2778,0,0,Analyzed,0.07,ns,Very Weak,FALSE
+RIW_DM,Spearman,-0.066,0.3032,0,0,Analyzed,0.066,ns,Very Weak,FALSE
+JENIS_KEL,Spearman,0.059,0.358,0,0,Analyzed,0.059,ns,Very Weak,FALSE
+TD_D,Spearman,-0.05,0.4372,0.0194,0,Analyzed,0.05,ns,Very Weak,FALSE
+GDP,Spearman,-0.05,0.4336,0,0,Analyzed,0.05,ns,Very Weak,FALSE
+NATRIUM,Spearman,-0.043,0.5054,0,0,Analyzed,0.043,ns,Very Weak,FALSE
+HB,Spearman,0.041,0.5199,0.4635,0,Analyzed,0.041,ns,Very Weak,FALSE
+HR,Spearman,0.04,0.5326,4e-04,0,Analyzed,0.04,ns,Very Weak,FALSE
+HBA1C,Spearman,0.031,0.6286,0,0,Analyzed,0.031,ns,Very Weak,FALSE
+RIW_DISLIPIDEMIA,Spearman,-0.03,0.6382,0,0,Analyzed,0.03,ns,Very Weak,FALSE
+RIW_MEROKOK,Spearman,0.029,0.646,0,0,Analyzed,0.029,ns,Very Weak,FALSE
+K,Spearman,-0.022,0.7321,0,0,Analyzed,0.022,ns,Very Weak,FALSE
+ANTIHCV,Spearman,0.018,0.7779,0,0,Analyzed,0.018,ns,Very Weak,FALSE
+PLT,Spearman,-0.017,0.7936,0,0,Analyzed,0.017,ns,Very Weak,FALSE
+KOL_TOT,Spearman,-0.011,0.8614,0,0,Analyzed,0.011,ns,Very Weak,FALSE
+RIW_KELUARGA,Spearman,-0.009,0.8879,0,0,Analyzed,0.009,ns,Very Weak,FALSE
+LDL,Spearman,0.003,0.9645,0,0,Analyzed,0.003,ns,Very Weak,FALSE
+TB,Spearman,-0.001,0.987,0,0,Analyzed,0.001,ns,Very Weak,FALSE
+RIW_ALKOHOL,NA,NA,NA,NA,NA,No variation,NA,,No variation,FALSE

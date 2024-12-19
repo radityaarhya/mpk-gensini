@@ -1,0 +1,14 @@
+Variable,VIF,Multicollinearity
+RR,1.79,Minimal
+UREUM,1.64,Minimal
+LDL,1.62,Minimal
+HDL,1.59,Minimal
+SK,1.4,Minimal
+TD_S,1.32,Minimal
+RIW_HT,1.29,Minimal
+USIA,1.22,Minimal
+BB,1.19,Minimal
+TG,1.15,Minimal
+GDS,1.14,Minimal
+LEUKOSIT,1.07,Minimal
+HBA1C,1.05,Minimal
